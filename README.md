@@ -1,6 +1,10 @@
 # bankHomepage
 
 
+## 펀드상품
+
+-fund.md 추가
+
 ## 대출 상품
 
 -loan.md 추가
@@ -22,6 +26,7 @@
 # 거래내역조회
 
 -Transaction-Inquiry.md 생성
+
 
 
 
